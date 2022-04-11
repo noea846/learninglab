@@ -47,7 +47,6 @@
             android:text="@string/impossible_18" />
 
         <RadioButton
-            android:id="@+id/option_fifteen_percent"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/so_so_15" />
